@@ -30,7 +30,7 @@ database = os.getenv("NEO4J_DATABASE", "movies")
 
 
 
-port = int(os.getenv("PORT", 8080))
+port = int(os.getenv("PORT", 7687))
 
 driver = GraphDatabase.driver(url, auth=basic_auth(username, password))
 
