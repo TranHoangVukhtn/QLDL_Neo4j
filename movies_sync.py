@@ -169,6 +169,7 @@ if __name__ == "__main__":
     logging.root.setLevel(logging.INFO)
     logging.info("Starting on port %d, database is at %s", port, url)
     try:
-        app.run(port=port)
+        app.run(host='0.0.0.0', port=port)
+        #app.run(port=port)
     finally:
         driver.close()
