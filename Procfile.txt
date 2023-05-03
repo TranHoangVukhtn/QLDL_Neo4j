@@ -1,1 +1,1 @@
-Web: gnicorn movies_async:app
+Web: python movies_async:app
