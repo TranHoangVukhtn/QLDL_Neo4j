@@ -1,1 +1,1 @@
-web: python movies_async.py --log-file=-
+web: python movies_sync.py --log-file=-
