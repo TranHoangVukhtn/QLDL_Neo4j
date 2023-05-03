@@ -13,19 +13,19 @@ from typing_extensions import LiteralString
 app = Flask(__name__, static_url_path="/static/")
 
 
-#url = os.getenv("NEO4J_URI", "neo4j+s://demo.neo4jlabs.com")
-#username = os.getenv("NEO4J_USER", "movies")
-#password = os.getenv("NEO4J_PASSWORD", "movies")
-#neo4j_version = os.getenv("NEO4J_VERSION", "4")
-#database = os.getenv("NEO4J_DATABASE", "movies")
-
-
-
-url = os.getenv("NEO4J_URI", "neo4j://localhost:7687")
-username = os.getenv("NEO4J_USER", "neo4jneo4j")
-password = os.getenv("NEO4J_PASSWORD", "neo4jneo4j")
+url = os.getenv("NEO4J_URI", "neo4j+s://demo.neo4jlabs.com")
+username = os.getenv("NEO4J_USER", "movies")
+password = os.getenv("NEO4J_PASSWORD", "movies")
 neo4j_version = os.getenv("NEO4J_VERSION", "4")
-database = os.getenv("NEO4J_DATABASE", "neo4j")
+database = os.getenv("NEO4J_DATABASE", "movies")
+
+
+
+#url = os.getenv("NEO4J_URI", "neo4j://localhost:7687")
+#username = os.getenv("NEO4J_USER", "neo4jneo4j")
+#password = os.getenv("NEO4J_PASSWORD", "neo4jneo4j")
+#neo4j_version = os.getenv("NEO4J_VERSION", "4")
+#database = os.getenv("NEO4J_DATABASE", "neo4j")
 
 
 
