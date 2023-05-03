@@ -1,1 +1,1 @@
-web: gunicorn movies_sync.py --log-file=-
+web: python movies_sync.py --log-file=-
