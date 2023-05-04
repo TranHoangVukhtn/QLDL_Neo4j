@@ -49,7 +49,7 @@ pip install -r requirements-async.txt
 
 === Run locally
 
-And finally let's start up a web server:
+And start khởi động web server:
 
 sync:
 
