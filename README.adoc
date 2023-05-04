@@ -1,10 +1,15 @@
 == Ứng dụng Neo4j Movies: 
+Ứng dụng Neo4j Movies nhóm 5 (Môn Quản lý dữ liệu) (Thạc sĩ Khoa học dữ liệu K32)
+Giảng viên: TS. Nguyễn An Tế
+Học viên  : Trần Hoàng Vũ 22C01027
+            Bùi Tất Hiệp  22C01007
+            Mai Đức Toàn  22C01036
 
-Ứng dụng Neo4j Movies nhóm 5 (Môn Quản lý dữ liệu) thực hiện thông qua trang chủ Neo4j với link :
+Ứng dụng Neo4j Movies nhóm 5 (Môn Quản lý dữ liệu) (Thạc sĩ Khoa học dữ liệu K32) thực hiện thông qua trang chủ Neo4j với link :
 https://neo4j.com/developer/example-project/
 Sau đó nhóm thực hiện deploy ứng dụng lên web app thông qua heroku https://www.heroku.com/
 Đường link deploy lên web app : https://qldlneo4j.herokuapp.com/
-=== The Stack
+=== Các cấu phần của ứng dụng
 
 Các components có trong Web Application:
 
