@@ -4,9 +4,7 @@
 Giảng viên: TS. Nguyễn An Tế
 
 Học viên  : Trần Hoàng Vũ 22C01027
-
             Bùi Tất Hiệp  22C01007
-            
             Mai Đức Toàn  22C01036
 
 Ứng dụng Neo4j Movies nhóm 5 (Môn Quản lý dữ liệu) (Thạc sĩ Khoa học dữ liệu K32) thực hiện thông qua trang chủ Neo4j với link :
