@@ -1,9 +1,9 @@
-== Neo4j Movies Application: 
+== Ứng dụng Neo4j Movies: 
 
 Ứng dụng Neo4j Movies nhóm 5 (Môn Quản lý dữ liệu) thực hiện thông qua trang chủ Neo4j với link :
 https://neo4j.com/developer/example-project/
 Sau đó nhóm thực hiện deploy ứng dụng lên web app thông qua heroku https://www.heroku.com/
-
+Đường link deploy lên web app : https://qldlneo4j.herokuapp.com/
 === The Stack
 
 Các components có trong Web Application:
