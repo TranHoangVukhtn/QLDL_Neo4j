@@ -30,7 +30,7 @@ Provision a database quickly with https://sandbox.neo4j.com/?usecase=movies[Neo4
 
 Install Python 3.7-3.11.
 
-Cài đặt vùng ảo với link:http://docs.python-guide.org/en/latest/dev/virtualenvs/[virtualenv] so we don't break any other Python stuff you have on your 
+Cài đặt vùng môi trường riêng chứa các gói thư viện với link:http://docs.python-guide.org/en/latest/dev/virtualenvs/[virtualenv] 
 
 [source]
 ----
