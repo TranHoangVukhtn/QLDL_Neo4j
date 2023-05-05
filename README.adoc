@@ -78,6 +78,10 @@ python movies_async.py
 Running on http://127.0.0.1:8080/
 ----
 
+=== Run trên heroku
+
+Thực hiện run file Procfile với các câu lệnh trên heroku:
+
 
 
 
